@@ -1,7 +1,9 @@
 # filebrowser
 Filebrowser 一键安装脚本
 
+
 filebrowser.json说明：
+
 port: 9184, 监听的端口
 baseURL: 端口后显示为此+/files, 可留空
 address: ,
